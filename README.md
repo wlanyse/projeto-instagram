@@ -1,3 +1,3 @@
 # projeto-instagram
 
-Projeto desenvolvido utilizando as linguagens de programção HTML e CSS e apresentando por Gabriela Pinheiro no Bootcamps da Digital Inovaction One.
+Projeto desenvolvido utilizando as linguagens de programção HTML e CSS e apresentado por Gabriela Pinheiro no Bootcamps da Digital Inovaction One.
